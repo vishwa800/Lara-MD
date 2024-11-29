@@ -9,8 +9,8 @@ SESSION_ID: process.env.SESSION_ID || "zz5XQB5S#eMfgkKYeqZzoJnUZhpbtqnRsoJUA0Cjc
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", 
 MODE: process.env.MODE || "privet",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
-AUTO_STICKER: process.env.AUTO_STICKER || "yes",
-AUTO_REPLY: process.env.AUTO_REPLY || "false",
+AUTO_STICKER: process.env.AUTO_STICKER || "true",
+AUTO_REPLY: process.env.AUTO_REPLY || "true",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 FAKE_RECORDING: process.env.FAKE_RECORDING || "true",    
 };
